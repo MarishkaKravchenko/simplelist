@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+<!-- region My Family -->
+<string name="my_family_title">My family</string>
+<string name="my_family_new_member_title">New member</string>
+<string name="my_family_add_family_member">Add family member</string>
+<string name="my_family_add_member">Add member</string>
+<string name="my_family_start_a_family_group">Start a family group and earn reward points together! You can add up to 9 members.</string>
+<string name="my_family_start_new_member">New member</string>
+<string name="my_family_add_new_member_by_email">Add a new member into your family group by entering their email address.</string>
+<string name="my_family_email_address">Email address</string>
+<string name="my_family_send_invite">Send invite</string>
+<string name="my_family_invalid_email_error">Please enter a valid email address</string>
+<string name="my_family_date_of_birth">Date of birth</string>
+<string name="my_family_invalid_email">Please enter a valid email address</string>
+<string name="my_family_image">My family image</string>
+<string name="my_family_members">FAMILY MEMBERS</string>
+<string name="my_family_contribution">Contribution - last 30 days</string>
+<string name="my_family_delete_family">DELETE FAMILY GROUP</string>
+
+<string name="my_family_dialog_invite_sent">Invite sent</string>
+<string name="my_family_dialog_more_invitation_you_sent">The more invitations you send, the more you can share.</string>
+<string name="my_family_dialog_send_another">Send another</string>
+<string name="my_family_dialog_done">Done</string>
+
+<string name="my_family_delete_dialog_title">Delete family group</string>
+<string name="my_family_delete_dialog_body">Are you sure you want to delete your family group?</string>
+
+<string name="my_family_member_minor">Minor</string>
+<string name="my_family_member_points_short">PTS</string>
+
+<string name="family_setup_contribution_title">Contribution</string>
+<string name="family_setup_contribution_info">What percentage of each transaction would you like to contribute to the family group?</string>
+<string name="family_setup_contribution_input_hint">Contribution (%)</string>
+<string name="family_setup_contribution_save_label">Save</string>
+
+<string name="family_invitation_title">My family</string>
+
+
+<string name="my_family_balance_title">Total points contributed by my family</string>
+<string name="my_family_balance_subtitle">Last 30 days</string>
+
+</resources>
